@@ -14,17 +14,15 @@ I am a Computer Systems Technician : https://codewhiteweb.cf
   
 I am currently studying my bachelor's degree in Computer Science.
 
-  👯 I’m looking to collaborate on my webpage
+Learning haunts me 
 
-  🤔 I’m Not looking for help
-
-  💬 Ask me about for any help
+My favorite language is python
 
   📫 How to reach me:  
-  Mail me at "web.codewhite@gmail.com" or 
-  scroll to bottom of the page of "https://codewhiteweb.cf" and find CONTACT ME
+  Mail me at "eliasbernal123@gmail.com" or 
+  find me on linkedin page "https://www.linkedin.com/in/elias-bernal-solis-514587318/"
 
-⚡ Fun fact: 7 out of 10 consumers find a company via the blog
+⚡ Fun fact: My first hello world was in c++.
 
 
 ## 🌐Socials
