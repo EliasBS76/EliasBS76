@@ -28,9 +28,7 @@ My favorite language is python
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,git,github,py,mysql&perline=3)](https://skillicons.dev)
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=EliasBS76=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=EliasBS76=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasBS76=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasBS76)](https://github.com/EliasBS76/github-readme-stats)
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=EliasBS76=discord&no-frame=false&no-bg=false&margin-w=4)
