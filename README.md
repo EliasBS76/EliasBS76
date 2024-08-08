@@ -1,22 +1,22 @@
 <h3 align="center">
-  welcome to my profile!
+  Welcome to my profile!
   
 </h3>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+EliasBS;I+am+a+High+school+student;Backend+Dev+%3C3"></a>
 </p>
 
 ---
 <div align="center">
   
 # 💫About Me :
-I am a Computer Systems Technician : https://codewhiteweb.cf
+I am a Computer Systems Technician :computer:
   
-I am currently studying my bachelor's degree in Computer Science.
+I am currently studying my bachelor's degree in Computer Science  :notebook:
 
-Learning haunts me 
+Learning haunts me :dart:
 
-My favorite language is python
+My favorite language is python :100:
 
   📫 How to reach me:  
   Mail me at "eliasbernal123@gmail.com" or 
@@ -33,23 +33,9 @@ My favorite language is python
 <img alt="TOP langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasBS76"/>
 
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
- [10 must have 3rd party services for all websites](https://dev.to/codewhiteweb/10-must-have-3rd-party-services-for-all-websites-584m)
-  
- [Best Google Fonts for your website](https://dev.to/codewhiteweb/best-google-fonts-for-your-website-3e5k)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://dev.to/codewhiteweb)
-
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
-![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
-![](https://forthebadge.com/images/badges/uses-brains.svg)
----
-![](https://komarev.com/ghpvc/?username=CodeWhiteWeb&label=Visitors+Count&color=brightgreen)
+
 </div>
