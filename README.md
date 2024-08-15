@@ -28,7 +28,7 @@ My favorite language is python :100:
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,git,github,py,mysql&perline=3)](https://skillicons.dev)
 
 # 📊GitHub Stats :
-<img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=EliasBS76"/>
+
 
 <img alt="TOP langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasBS76"/>
 
